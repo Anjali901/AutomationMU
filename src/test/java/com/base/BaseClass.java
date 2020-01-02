@@ -12,6 +12,7 @@ import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
@@ -32,8 +33,8 @@ public class BaseClass {
 		PropertyConfigurator.configure("log4j.properties"); // Added Logger
 		logger.setLevel(Level.DEBUG); // to get the debug log
 		logger.debug("Debug logging has started ");
-		System.setProperty("webdriver.gecko.driver", readconfig.getFirefoxPath());
-	    driver=new FirefoxDriver();
+		System.setProperty("webdriver.chrome.driver", readconfig.getChromePath());
+	    driver=new ChromeDriver();
       	driver.get(baseURL);
 	    driver.manage().window().maximize();
 

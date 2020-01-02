@@ -767,3 +767,6 @@
 2020-01-02 14:57:23,354 [main] INFO MonkeyUser - June 19, 2018
 2020-01-02 14:57:23,357 [main] INFO MonkeyUser - Test Passed!
 2020-01-02 14:57:23,357 [main] INFO MonkeyUser - Successfully Opened Comic
+2020-01-02 16:58:52,123 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 16:59:08,117 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 16:59:09,019 [main] INFO MonkeyUser - Clicking on Random View

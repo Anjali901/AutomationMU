@@ -39,7 +39,11 @@ public class ReadConfig {
 	return firefoxpath;
 	}
 	
-		
+	public String getChromePath() 
+	{
+	String chromepath=pro.getProperty("chromepath");
+	return chromepath;
+	}
 	
 	
 	
