@@ -35,7 +35,7 @@ public class BaseClass {
 		System.setProperty("webdriver.gecko.driver", readconfig.getFirefoxPath());
 	    driver=new FirefoxDriver();
       	driver.get(baseURL);
-	    driver.manage().window().maximize();;
+	    driver.manage().window().maximize();
 
 	}
 	

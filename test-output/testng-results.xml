@@ -1,96 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="64945" started-at="2020-01-02T12:35:35 EST" finished-at="2020-01-02T12:36:40 EST">
+  <suite name="Suite" duration-ms="98600" started-at="2020-01-02T14:55:48 EST" finished-at="2020-01-02T14:57:27 EST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="64945" started-at="2020-01-02T12:35:35 EST" finished-at="2020-01-02T12:36:40 EST">
-      <class name="com.testCases.TC_007">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.TC_007@71bbf57e]" name="setup" is-config="true" duration-ms="22505" started-at="2020-01-02T12:35:35 EST" finished-at="2020-01-02T12:35:58 EST">
+    <test name="Test" duration-ms="98600" started-at="2020-01-02T14:55:48 EST" finished-at="2020-01-02T14:57:27 EST">
+      <class name="com.testCases.TC_005">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.TC_005@56aac163]" name="setup" is-config="true" duration-ms="6050" started-at="2020-01-02T14:57:13 EST" finished-at="2020-01-02T14:57:19 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="Shop()[pri:0, instance:com.testCases.TC_007@71bbf57e]" name="Shop" duration-ms="35150" started-at="2020-01-02T12:35:58 EST" finished-at="2020-01-02T12:36:33 EST">
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="paypal-animation-container"]' (tried for 25 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="paypal-animation-container"]' (tried for 25 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at com.pageObjects.MU_CheckoutCartList.PayPalBtn(MU_CheckoutCartList.java:131)
-at com.testCases.TC_007.Shop(TC_007.java:47)
-at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-at java.lang.reflect.Method.invoke(Unknown Source)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.util.ArrayList.forEach(Unknown Source)
-at org.testng.TestRunner.privateRun(TestRunner.java:770)
-at org.testng.TestRunner.run(TestRunner.java:591)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
-at org.testng.SuiteRunner.run(SuiteRunner.java:304)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
-at org.testng.TestNG.runSuites(TestNG.java:1032)
-at org.testng.TestNG.run(TestNG.java:1000)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: //*[@id="paypal-animation-container"]
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'LAPTOP-UJPDH0NO', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 71.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20191202093317, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 4868, moz:profile: C:\Users\User\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 2034b9fc-da3d-47e9-afd5-cb8ff14e3f6b
-*** Element info: {Using=xpath, value=//*[@id="paypal-animation-container"]}
-at sun.reflect.GeneratedConstructorAccessor16.newInstance(Unknown Source)
-at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-at java.lang.reflect.Constructor.newInstance(Unknown Source)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at com.sun.proxy.$Proxy9.isDisplayed(Unknown Source)
-at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
-at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
-at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
-at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-... 30 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+        <test-method status="PASS" signature="View()[pri:0, instance:com.testCases.TC_005@56aac163]" name="View" duration-ms="3574" started-at="2020-01-02T14:57:19 EST" finished-at="2020-01-02T14:57:23 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- View -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testCases.TC_005@56aac163]" name="teardown" is-config="true" duration-ms="3807" started-at="2020-01-02T14:57:23 EST" finished-at="2020-01-02T14:57:27 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testCases.TC_005 -->
+      <class name="com.testCases.TC_004">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.TC_004@184f6be2]" name="setup" is-config="true" duration-ms="6328" started-at="2020-01-02T14:56:59 EST" finished-at="2020-01-02T14:57:06 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ViewHistory()[pri:0, instance:com.testCases.TC_004@184f6be2]" name="ViewHistory" duration-ms="1519" started-at="2020-01-02T14:57:06 EST" finished-at="2020-01-02T14:57:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ViewHistory -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testCases.TC_004@184f6be2]" name="teardown" is-config="true" duration-ms="5951" started-at="2020-01-02T14:57:07 EST" finished-at="2020-01-02T14:57:13 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testCases.TC_004 -->
+      <class name="com.testCases.TC_003">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.TC_003@64729b1e]" name="setup" is-config="true" duration-ms="6267" started-at="2020-01-02T14:56:00 EST" finished-at="2020-01-02T14:56:06 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="View()[pri:0, instance:com.testCases.TC_003@64729b1e]" name="View" duration-ms="1023" started-at="2020-01-02T14:56:06 EST" finished-at="2020-01-02T14:56:08 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- View -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testCases.TC_003@64729b1e]" name="teardown" is-config="true" duration-ms="4154" started-at="2020-01-02T14:56:08 EST" finished-at="2020-01-02T14:56:12 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testCases.TC_003 -->
+      <class name="com.testCases.TC_002">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.TC_002@4e7dc304]" name="setup" is-config="true" duration-ms="6477" started-at="2020-01-02T14:55:48 EST" finished-at="2020-01-02T14:55:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="View()[pri:0, instance:com.testCases.TC_002@4e7dc304]" name="View" duration-ms="1325" started-at="2020-01-02T14:55:55 EST" finished-at="2020-01-02T14:55:56 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- View -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testCases.TC_002@4e7dc304]" name="teardown" is-config="true" duration-ms="4341" started-at="2020-01-02T14:55:56 EST" finished-at="2020-01-02T14:56:00 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testCases.TC_002 -->
+      <class name="com.testCases.TC_001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.TC_001@10bbd20a]" name="setup" is-config="true" duration-ms="5961" started-at="2020-01-02T14:56:12 EST" finished-at="2020-01-02T14:56:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="View()[pri:0, instance:com.testCases.TC_001@10bbd20a]" name="View" duration-ms="586" started-at="2020-01-02T14:56:18 EST" finished-at="2020-01-02T14:56:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- View -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testCases.TC_001@10bbd20a]" name="teardown" is-config="true" duration-ms="4315" started-at="2020-01-02T14:56:18 EST" finished-at="2020-01-02T14:56:23 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testCases.TC_001 -->
+      <class name="com.testCases.TC_007">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.TC_007@6895a785]" name="setup" is-config="true" duration-ms="6177" started-at="2020-01-02T14:56:38 EST" finished-at="2020-01-02T14:56:44 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Shop()[pri:0, instance:com.testCases.TC_007@6895a785]" name="Shop" duration-ms="9144" started-at="2020-01-02T14:56:44 EST" finished-at="2020-01-02T14:56:53 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Shop -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testCases.TC_007@71bbf57e]" name="teardown" is-config="true" duration-ms="7201" started-at="2020-01-02T12:36:33 EST" finished-at="2020-01-02T12:36:40 EST">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testCases.TC_007@6895a785]" name="teardown" is-config="true" duration-ms="6432" started-at="2020-01-02T14:56:53 EST" finished-at="2020-01-02T14:56:59 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.testCases.TC_007 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="com.testCases.TC_006">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.TC_006@48503868]" name="setup" is-config="true" duration-ms="5695" started-at="2020-01-02T14:56:23 EST" finished-at="2020-01-02T14:56:28 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Shop()[pri:0, instance:com.testCases.TC_006@48503868]" name="Shop" duration-ms="2959" started-at="2020-01-02T14:56:28 EST" finished-at="2020-01-02T14:56:31 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Shop -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testCases.TC_006@48503868]" name="teardown" is-config="true" duration-ms="6499" started-at="2020-01-02T14:56:31 EST" finished-at="2020-01-02T14:56:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testCases.TC_006 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

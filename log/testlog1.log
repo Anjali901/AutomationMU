@@ -635,3 +635,135 @@
 2020-01-02 12:36:06,538 [main] INFO MonkeyUser - Back to Cart
 2020-01-02 12:36:07,442 [main] INFO MonkeyUser - Capturing Update Btn
 2020-01-02 12:36:08,252 [main] INFO MonkeyUser - Capturing Remove Btn
+2020-01-02 14:05:35,763 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:06:09,235 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:06:43,420 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:06:56,129 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:06:58,157 [main] INFO MonkeyUser - Clicking on Random View
+2020-01-02 14:42:28,333 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:42:37,076 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:42:38,279 [main] INFO MonkeyUser - Shop List WebPage is visible
+2020-01-02 14:42:39,683 [main] INFO MonkeyUser - Selecting Product A
+2020-01-02 14:42:39,697 [main] INFO MonkeyUser - Test Passed!
+2020-01-02 14:42:39,697 [main] INFO MonkeyUser - Successfully Product Added To Cart
+2020-01-02 14:44:34,465 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:44:41,213 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:44:42,084 [main] INFO MonkeyUser - Shop List WebPage is visible
+2020-01-02 14:44:43,835 [main] INFO MonkeyUser - Selecting Product A
+2020-01-02 14:44:44,659 [main] INFO MonkeyUser - Clicking Add to Cart
+2020-01-02 14:44:44,674 [main] INFO MonkeyUser - Test Passed!
+2020-01-02 14:44:44,674 [main] INFO MonkeyUser - Successfully Product Added To Cart
+2020-01-02 14:48:08,710 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:48:15,278 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:48:16,349 [main] INFO MonkeyUser - Clicking the ComicsList link 
+2020-01-02 14:48:17,166 [main] INFO MonkeyUser - Clicking on Latest Comics
+2020-01-02 14:48:17,181 [main] INFO MonkeyUser - Test Passed!
+2020-01-02 14:48:17,181 [main] INFO MonkeyUser - Successfully Opened Latest Comic
+2020-01-02 14:48:21,381 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:48:27,781 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:48:28,182 [main] INFO MonkeyUser - Clicking on Random View
+2020-01-02 14:48:28,614 [main] INFO MonkeyUser - Clicking on Next Tab
+2020-01-02 14:48:32,915 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:48:38,296 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:48:39,229 [main] INFO MonkeyUser - Clicking on Random View
+2020-01-02 14:48:43,687 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:48:49,469 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:48:50,116 [main] INFO MonkeyUser - Shop List WebPage is visible
+2020-01-02 14:48:51,320 [main] INFO MonkeyUser - Selecting Product A
+2020-01-02 14:48:51,658 [main] INFO MonkeyUser - Clicking Add to Cart
+2020-01-02 14:48:51,658 [main] ERROR MonkeyUser - Test Failed!
+2020-01-02 14:48:58,196 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:49:04,111 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:49:04,965 [main] INFO MonkeyUser - Shop List WebPage is visible
+2020-01-02 14:49:06,216 [main] INFO MonkeyUser - Selecting Product A
+2020-01-02 14:49:06,849 [main] INFO MonkeyUser - Selecting Add to cart
+2020-01-02 14:49:07,303 [main] INFO MonkeyUser - Selecting Continue Shoping btn
+2020-01-02 14:49:07,951 [main] INFO MonkeyUser - Adding Product B to cart
+2020-01-02 14:49:08,590 [main] INFO MonkeyUser - Adding product B to Cart
+2020-01-02 14:49:09,054 [main] INFO MonkeyUser - Capturing Cart Icon Btn
+2020-01-02 14:49:09,508 [main] INFO MonkeyUser - Capturing SignIn Icon
+2020-01-02 14:49:09,994 [main] INFO MonkeyUser - Back to Cart
+2020-01-02 14:49:10,611 [main] INFO MonkeyUser - Capturing Update Btn
+2020-01-02 14:49:11,344 [main] INFO MonkeyUser - Capturing Remove Btn
+2020-01-02 14:49:11,349 [main] INFO MonkeyUser - Test Passed!
+2020-01-02 14:49:11,349 [main] INFO MonkeyUser - Successfully Checked Cart Functions
+2020-01-02 14:49:19,144 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:49:24,874 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:49:25,576 [main] INFO MonkeyUser - Clicking the ComicsList link 
+2020-01-02 14:49:25,661 [main] INFO MonkeyUser - Navigating the page by using Javascript
+2020-01-02 14:49:25,861 [main] INFO MonkeyUser - Views Comic History
+2020-01-02 14:49:30,136 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:49:36,153 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:49:36,869 [main] INFO MonkeyUser - Clicking the ComicsList link 
+2020-01-02 14:49:37,418 [main] INFO MonkeyUser - December 4, 2018
+2020-01-02 14:49:37,422 [main] INFO MonkeyUser - Test Passed!
+2020-01-02 14:49:37,422 [main] INFO MonkeyUser - Successfully Opened Comic
+2020-01-02 14:49:37,872 [main] INFO MonkeyUser - Clicking the ComicsList link 
+2020-01-02 14:49:38,589 [main] INFO MonkeyUser - June 19, 2018
+2020-01-02 14:49:38,806 [main] INFO MonkeyUser - Test Passed!
+2020-01-02 14:49:38,806 [main] INFO MonkeyUser - Successfully Opened Comic
+2020-01-02 14:49:39,207 [main] INFO MonkeyUser - Clicking the ComicsList link 
+2020-01-02 14:49:39,893 [main] INFO MonkeyUser - June 19, 2018
+2020-01-02 14:49:39,909 [main] INFO MonkeyUser - Test Passed!
+2020-01-02 14:49:39,909 [main] INFO MonkeyUser - Successfully Opened Comic
+2020-01-02 14:55:07,520 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:55:14,307 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:55:15,209 [main] INFO MonkeyUser - Shop List WebPage is visible
+2020-01-02 14:55:16,582 [main] INFO MonkeyUser - Selecting Product A
+2020-01-02 14:55:17,253 [main] INFO MonkeyUser - Clicking Add to Cart
+2020-01-02 14:55:17,253 [main] INFO MonkeyUser - Test Passed!
+2020-01-02 14:55:17,253 [main] INFO MonkeyUser - Successfully Product Added To Cart
+2020-01-02 14:55:48,642 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:55:55,072 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:55:55,896 [main] INFO MonkeyUser - Clicking the ComicsList link 
+2020-01-02 14:55:56,359 [main] INFO MonkeyUser - Clicking on Latest Comics
+2020-01-02 14:55:56,373 [main] INFO MonkeyUser - Test Passed!
+2020-01-02 14:55:56,373 [main] INFO MonkeyUser - Successfully Opened Latest Comic
+2020-01-02 14:56:00,760 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:56:06,989 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:56:07,521 [main] INFO MonkeyUser - Clicking on Random View
+2020-01-02 14:56:08,006 [main] INFO MonkeyUser - Clicking on Next Tab
+2020-01-02 14:56:12,197 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:56:18,127 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:56:18,713 [main] INFO MonkeyUser - Clicking on Random View
+2020-01-02 14:56:23,060 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:56:28,724 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:56:29,478 [main] INFO MonkeyUser - Shop List WebPage is visible
+2020-01-02 14:56:30,959 [main] INFO MonkeyUser - Selecting Product A
+2020-01-02 14:56:31,683 [main] INFO MonkeyUser - Clicking Add to Cart
+2020-01-02 14:56:31,683 [main] INFO MonkeyUser - Test Passed!
+2020-01-02 14:56:31,683 [main] INFO MonkeyUser - Successfully Product Added To Cart
+2020-01-02 14:56:38,213 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:56:44,359 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:56:45,246 [main] INFO MonkeyUser - Shop List WebPage is visible
+2020-01-02 14:56:46,548 [main] INFO MonkeyUser - Selecting Product A
+2020-01-02 14:56:47,318 [main] INFO MonkeyUser - Selecting Add to cart
+2020-01-02 14:56:47,819 [main] INFO MonkeyUser - Selecting Continue Shoping btn
+2020-01-02 14:56:48,822 [main] INFO MonkeyUser - Adding Product B to cart
+2020-01-02 14:56:50,025 [main] INFO MonkeyUser - Adding product B to Cart
+2020-01-02 14:56:50,473 [main] INFO MonkeyUser - Capturing Cart Icon Btn
+2020-01-02 14:56:51,081 [main] INFO MonkeyUser - Capturing SignIn Icon
+2020-01-02 14:56:51,544 [main] INFO MonkeyUser - Back to Cart
+2020-01-02 14:56:52,747 [main] INFO MonkeyUser - Capturing Update Btn
+2020-01-02 14:56:53,487 [main] INFO MonkeyUser - Capturing Remove Btn
+2020-01-02 14:56:53,503 [main] INFO MonkeyUser - Test Passed!
+2020-01-02 14:56:53,503 [main] INFO MonkeyUser - Successfully Checked Cart Functions
+2020-01-02 14:56:59,950 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:57:06,263 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:57:07,497 [main] INFO MonkeyUser - Clicking the ComicsList link 
+2020-01-02 14:57:07,581 [main] INFO MonkeyUser - Navigating the page by using Javascript
+2020-01-02 14:57:07,782 [main] INFO MonkeyUser - Views Comic History
+2020-01-02 14:57:13,755 [main] DEBUG MonkeyUser - Debug logging has started 
+2020-01-02 14:57:19,783 [main] INFO MonkeyUser - Launching MonekyUser Website
+2020-01-02 14:57:20,532 [main] INFO MonkeyUser - Clicking the ComicsList link 
+2020-01-02 14:57:21,049 [main] INFO MonkeyUser - December 4, 2018
+2020-01-02 14:57:21,060 [main] INFO MonkeyUser - Test Passed!
+2020-01-02 14:57:21,060 [main] INFO MonkeyUser - Successfully Opened Comic
+2020-01-02 14:57:21,571 [main] INFO MonkeyUser - Clicking the ComicsList link 
+2020-01-02 14:57:22,135 [main] INFO MonkeyUser - June 19, 2018
+2020-01-02 14:57:22,351 [main] INFO MonkeyUser - Test Passed!
+2020-01-02 14:57:22,351 [main] INFO MonkeyUser - Successfully Opened Comic
+2020-01-02 14:57:22,806 [main] INFO MonkeyUser - Clicking the ComicsList link 
+2020-01-02 14:57:23,354 [main] INFO MonkeyUser - June 19, 2018
+2020-01-02 14:57:23,357 [main] INFO MonkeyUser - Test Passed!
+2020-01-02 14:57:23,357 [main] INFO MonkeyUser - Successfully Opened Comic
