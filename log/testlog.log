@@ -1,0 +1,637 @@
+2019-12-31 22:37:15,110 - MonkeyUser -DEBUG - Debug logging has started 
+2019-12-31 22:39:03,569 - MonkeyUser -DEBUG - Debug logging has started 
+2019-12-31 22:40:52,060 - MonkeyUser -DEBUG - Debug logging has started 
+2019-12-31 22:40:58,806 - MonkeyUser -INFO - Launching MonekyUser Website
+2019-12-31 22:40:59,921 - MonkeyUser -INFO - Clicking the ComicsList link 
+2019-12-31 22:53:49,220 - MonkeyUser -DEBUG - Debug logging has started 
+2019-12-31 22:53:56,341 - MonkeyUser -INFO - Launching MonekyUser Website
+2019-12-31 22:53:57,437 - MonkeyUser -INFO - Clicking the ComicsList link 
+2019-12-31 22:53:58,187 - MonkeyUser -INFO - Clicking on Random View Comics v.0.1
+2019-12-31 22:54:10,499 - MonkeyUser -DEBUG - Debug logging has started 
+2019-12-31 22:54:17,549 - MonkeyUser -INFO - Launching MonekyUser Website
+2019-12-31 22:54:18,548 - MonkeyUser -INFO - Clicking the ComicsList link 
+2019-12-31 22:54:19,513 - MonkeyUser -INFO - Clicking on Random View Comics v.0.1
+2019-12-31 23:00:08,029 - MonkeyUser -DEBUG - Debug logging has started 
+2019-12-31 23:00:15,723 - MonkeyUser -INFO - Launching MonekyUser Website
+2019-12-31 23:00:17,147 - MonkeyUser -INFO - Clicking the ComicsList link 
+2019-12-31 23:00:17,712 - MonkeyUser -INFO - Clicking on Random View Comics v.0.1
+2019-12-31 23:00:17,727 - MonkeyUser -ERROR - Test Failed! Login failed!
+2019-12-31 23:01:14,068 - MonkeyUser -DEBUG - Debug logging has started 
+2019-12-31 23:01:23,730 - MonkeyUser -INFO - Launching MonekyUser Website
+2019-12-31 23:01:24,847 - MonkeyUser -INFO - Clicking the ComicsList link 
+2019-12-31 23:01:25,367 - MonkeyUser -INFO - Clicking on Random View Comics v.0.1
+2019-12-31 23:01:25,384 - MonkeyUser -ERROR - Test Failed! Login failed!
+2019-12-31 23:03:22,827 - MonkeyUser -DEBUG - Debug logging has started 
+2019-12-31 23:03:30,304 - MonkeyUser -INFO - Launching MonekyUser Website
+2019-12-31 23:03:31,489 - MonkeyUser -INFO - Clicking the ComicsList link 
+2019-12-31 23:03:32,304 - MonkeyUser -INFO - Clicking on Random View Comics v.0.1
+2019-12-31 23:03:32,343 - MonkeyUser -ERROR - Test Failed! Login failed!
+2019-12-31 23:06:21,065 - MonkeyUser -DEBUG - Debug logging has started 
+2019-12-31 23:06:28,730 - MonkeyUser -INFO - Launching MonekyUser Website
+2019-12-31 23:06:29,891 - MonkeyUser -INFO - Clicking the ComicsList link 
+2019-12-31 23:06:30,700 - MonkeyUser -INFO - Clicking on Random View Comics v.0.1
+2019-12-31 23:06:30,718 - MonkeyUser -ERROR - Test Failed! Login failed!
+2019-12-31 23:08:58,124 - MonkeyUser -DEBUG - Debug logging has started 
+2019-12-31 23:09:05,944 - MonkeyUser -INFO - Launching MonekyUser Website
+2019-12-31 23:09:06,786 - MonkeyUser -INFO - Clicking the ComicsList link 
+2019-12-31 23:09:07,666 - MonkeyUser -INFO - Clicking on Random View Comics v.0.1
+2019-12-31 23:09:07,685 - MonkeyUser -ERROR - Test Failed! Login failed!
+2019-12-31 23:10:14,149 - MonkeyUser -DEBUG - Debug logging has started 
+2019-12-31 23:10:21,679 - MonkeyUser -INFO - Launching MonekyUser Website
+2019-12-31 23:10:22,969 - MonkeyUser -INFO - Clicking the ComicsList link 
+2019-12-31 23:10:23,764 - MonkeyUser -INFO - Clicking on Random View Comics v.0.1
+2019-12-31 23:10:23,786 - MonkeyUser -INFO - Test Passed! Login Successful!
+2019-12-31 23:10:23,786 - MonkeyUser -INFO - Successfully Opened Comic V2.0.1
+2019-12-31 23:13:17,980 - MonkeyUser -DEBUG - Debug logging has started 
+2019-12-31 23:13:25,715 - MonkeyUser -INFO - Launching MonekyUser Website
+2019-12-31 23:13:27,190 - MonkeyUser -INFO - Clicking the ComicsList link 
+2019-12-31 23:13:27,300 - MonkeyUser -INFO - Navigating the page by using Javascript
+2019-12-31 23:13:27,470 - MonkeyUser -INFO - Scrolling down the Page
+2019-12-31 23:13:28,683 - MonkeyUser -INFO - Clicking on Random View Comics v.0.1
+2019-12-31 23:13:28,703 - MonkeyUser -INFO - Test Passed! Login Successful!
+2019-12-31 23:13:28,704 - MonkeyUser -INFO - Successfully Opened Comic V2.0.1
+2019-12-31 23:42:05,907 - MonkeyUser -DEBUG - Debug logging has started 
+2019-12-31 23:42:27,745 - MonkeyUser -INFO - Launching MonekyUser Website
+2019-12-31 23:42:29,320 - MonkeyUser -INFO - Clicking the ComicsList link 
+2019-12-31 23:42:29,909 - MonkeyUser -INFO - Clicking on Latest Comics
+2019-12-31 23:42:29,920 - MonkeyUser -INFO - Test Passed!
+2019-12-31 23:42:29,921 - MonkeyUser -INFO - Successfully Opened Latest Comic
+2020-01-01 00:19:37,739 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 00:19:46,326 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 00:19:47,329 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 00:20:25,248 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 00:20:31,262 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 00:23:29,957 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 00:23:36,643 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 00:23:37,075 - MonkeyUser -INFO - Clicking on Random View
+2020-01-01 00:23:37,091 - MonkeyUser -ERROR - Test Failed!
+2020-01-01 00:24:39,702 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 00:24:46,093 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 00:24:46,616 - MonkeyUser -INFO - Clicking on Random View
+2020-01-01 00:24:46,632 - MonkeyUser -ERROR - Test Failed!
+2020-01-01 00:25:29,014 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 00:25:35,862 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 00:25:36,331 - MonkeyUser -INFO - Clicking on Random View
+2020-01-01 00:25:36,346 - MonkeyUser -ERROR - Test Failed!
+2020-01-01 00:26:58,305 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 00:27:04,788 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 00:27:05,251 - MonkeyUser -INFO - Clicking on Random View
+2020-01-01 00:27:05,257 - MonkeyUser -ERROR - Test Failed!
+2020-01-01 00:28:27,170 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 00:28:33,767 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 00:28:34,300 - MonkeyUser -INFO - Clicking on Random View
+2020-01-01 01:05:52,544 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 01:06:00,267 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 01:06:01,890 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 01:06:02,676 - MonkeyUser -INFO - Clicking on Latest Comics
+2020-01-01 01:06:02,694 - MonkeyUser -INFO - Test Passed!
+2020-01-01 01:06:02,694 - MonkeyUser -INFO - Successfully Opened Latest Comic
+2020-01-01 01:17:47,945 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 01:17:55,358 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 01:17:55,959 - MonkeyUser -INFO - Clicking on Random View
+2020-01-01 01:17:56,570 - MonkeyUser -INFO - Clicking on Next Tab
+2020-01-01 01:18:41,002 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 01:18:48,985 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 01:18:49,751 - MonkeyUser -INFO - Clicking on Random View
+2020-01-01 01:18:50,659 - MonkeyUser -INFO - Clicking on Next Tab
+2020-01-01 01:19:02,131 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 01:19:09,569 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 01:19:10,181 - MonkeyUser -INFO - Clicking on Random View
+2020-01-01 01:19:11,004 - MonkeyUser -INFO - Clicking on Next Tab
+2020-01-01 01:51:16,736 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 01:51:26,359 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 01:51:27,074 - MonkeyUser -INFO - Clicking on Random View
+2020-01-01 01:56:28,808 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 01:56:35,851 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 01:56:36,975 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 01:56:37,041 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 01:56:37,064 - MonkeyUser -INFO - Scrolling down the Page
+2020-01-01 01:57:48,356 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 01:57:55,898 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 01:57:57,111 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 01:57:57,195 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 01:57:57,219 - MonkeyUser -INFO - Scrolling down the Page
+2020-01-01 01:57:58,499 - MonkeyUser -INFO - December 4, 2018
+2020-01-01 01:57:58,520 - MonkeyUser -ERROR - Test Failed!
+2020-01-01 01:59:04,558 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 01:59:12,175 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 01:59:13,679 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 01:59:13,784 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 01:59:13,829 - MonkeyUser -INFO - Scrolling down the Page
+2020-01-01 01:59:15,059 - MonkeyUser -INFO - December 4, 2018
+2020-01-01 01:59:15,088 - MonkeyUser -ERROR - Test Failed!
+2020-01-01 02:00:09,541 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:00:16,465 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:00:17,329 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:00:17,329 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 02:00:17,329 - MonkeyUser -INFO - Scrolling down the Page
+2020-01-01 02:00:18,376 - MonkeyUser -INFO - December 4, 2018
+2020-01-01 02:00:18,402 - MonkeyUser -ERROR - Test Failed!
+2020-01-01 02:00:58,781 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:01:05,695 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:01:06,622 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:01:07,471 - MonkeyUser -INFO - December 4, 2018
+2020-01-01 02:01:07,501 - MonkeyUser -ERROR - Test Failed!
+2020-01-01 02:02:31,404 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:02:38,456 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:02:39,380 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:02:40,190 - MonkeyUser -INFO - December 4, 2018
+2020-01-01 02:02:40,216 - MonkeyUser -INFO - Test Passed!
+2020-01-01 02:02:40,217 - MonkeyUser -INFO - Successfully Opened Comic
+2020-01-01 02:04:40,745 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:04:54,017 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:04:55,308 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:04:55,346 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 02:04:56,831 - MonkeyUser -INFO - December 4, 2018
+2020-01-01 02:04:56,842 - MonkeyUser -INFO - Test Passed!
+2020-01-01 02:04:56,842 - MonkeyUser -INFO - Successfully Opened Comic
+2020-01-01 02:16:19,097 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:16:26,681 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:16:27,711 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:16:27,792 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 02:16:29,105 - MonkeyUser -INFO - December 4, 2018
+2020-01-01 02:16:29,122 - MonkeyUser -INFO - Test Passed!
+2020-01-01 02:16:29,122 - MonkeyUser -INFO - Successfully Opened Comic
+2020-01-01 02:17:31,050 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:17:38,575 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:17:39,774 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:17:39,840 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 02:17:41,167 - MonkeyUser -INFO - December 4, 2018
+2020-01-01 02:17:41,183 - MonkeyUser -INFO - Test Passed!
+2020-01-01 02:17:41,184 - MonkeyUser -INFO - Successfully Opened Comic
+2020-01-01 02:17:42,000 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:17:43,330 - MonkeyUser -INFO - June 19, 2018
+2020-01-01 02:17:43,337 - MonkeyUser -ERROR - Test Failed!
+2020-01-01 02:18:16,225 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:18:23,492 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:18:25,215 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:18:25,294 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 02:19:14,571 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:19:21,842 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:19:22,929 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:19:22,981 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 02:19:24,344 - MonkeyUser -INFO - December 4, 2018
+2020-01-01 02:19:24,366 - MonkeyUser -INFO - Test Passed!
+2020-01-01 02:19:24,367 - MonkeyUser -INFO - Successfully Opened Comic
+2020-01-01 02:19:25,224 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:19:25,839 - MonkeyUser -INFO - June 19, 2018
+2020-01-01 02:19:25,847 - MonkeyUser -ERROR - Test Failed!
+2020-01-01 02:20:21,300 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:20:28,513 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:20:29,825 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:20:29,860 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 02:20:31,140 - MonkeyUser -INFO - December 4, 2018
+2020-01-01 02:20:31,162 - MonkeyUser -INFO - Test Passed!
+2020-01-01 02:20:31,163 - MonkeyUser -INFO - Successfully Opened Comic
+2020-01-01 02:20:31,894 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:20:32,667 - MonkeyUser -INFO - June 19, 2018
+2020-01-01 02:20:32,673 - MonkeyUser -ERROR - Test Failed!
+2020-01-01 02:24:03,155 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:24:25,613 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:24:27,716 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:24:27,737 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 02:24:29,204 - MonkeyUser -INFO - December 4, 2018
+2020-01-01 02:24:29,225 - MonkeyUser -INFO - Test Passed!
+2020-01-01 02:24:29,226 - MonkeyUser -INFO - Successfully Opened Comic
+2020-01-01 02:24:30,385 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:24:31,432 - MonkeyUser -INFO - June 19, 2018
+2020-01-01 02:24:31,448 - MonkeyUser -ERROR - Test Failed!
+2020-01-01 02:30:41,490 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:30:48,764 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:30:49,841 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:30:49,881 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 02:30:51,209 - MonkeyUser -INFO - December 4, 2018
+2020-01-01 02:30:51,222 - MonkeyUser -INFO - Test Passed!
+2020-01-01 02:30:51,225 - MonkeyUser -INFO - Successfully Opened Comic
+2020-01-01 02:30:51,751 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:30:52,695 - MonkeyUser -INFO - June 19, 2018
+2020-01-01 02:30:52,701 - MonkeyUser -ERROR - Test Failed!
+2020-01-01 02:32:39,859 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:32:46,695 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:32:48,033 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:32:48,062 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 02:33:27,718 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:33:34,954 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:33:36,607 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:33:36,676 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 02:34:43,435 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:34:50,560 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:34:51,858 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:34:52,572 - MonkeyUser -INFO - December 4, 2018
+2020-01-01 02:34:52,586 - MonkeyUser -INFO - Test Passed!
+2020-01-01 02:34:52,587 - MonkeyUser -INFO - Successfully Opened Comic
+2020-01-01 02:34:53,298 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:34:53,963 - MonkeyUser -INFO - June 19, 2018
+2020-01-01 02:34:54,177 - MonkeyUser -ERROR - Test Failed!
+2020-01-01 02:36:01,733 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:36:07,856 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:36:09,081 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:36:09,849 - MonkeyUser -INFO - December 4, 2018
+2020-01-01 02:36:09,860 - MonkeyUser -INFO - Test Passed!
+2020-01-01 02:36:09,861 - MonkeyUser -INFO - Successfully Opened Comic
+2020-01-01 02:36:10,564 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:36:11,356 - MonkeyUser -INFO - June 19, 2018
+2020-01-01 02:36:11,567 - MonkeyUser -INFO - Test Passed!
+2020-01-01 02:36:11,569 - MonkeyUser -INFO - Successfully Opened Comic
+2020-01-01 02:36:12,250 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 02:36:12,897 - MonkeyUser -INFO - June 19, 2018
+2020-01-01 02:36:12,903 - MonkeyUser -INFO - Test Passed!
+2020-01-01 02:36:12,904 - MonkeyUser -INFO - Successfully Opened Comic
+2020-01-01 02:50:57,437 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:51:04,361 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:51:34,947 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:51:42,239 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:52:34,910 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:52:41,492 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:52:42,484 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 02:56:50,297 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:56:57,366 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:56:58,592 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 02:57:00,249 - MonkeyUser -INFO - Selecting Product A
+2020-01-01 02:58:17,844 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 02:58:24,790 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 02:58:26,396 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 02:58:28,035 - MonkeyUser -INFO - Selecting Product A
+2020-01-01 02:58:28,062 - MonkeyUser -INFO - Test Passed!
+2020-01-01 02:58:28,063 - MonkeyUser -INFO - Successfully Product Added To Cart
+2020-01-01 04:26:47,811 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 04:26:58,242 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 04:26:59,385 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 04:26:59,460 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 04:26:59,505 - MonkeyUser -INFO - Views Comic History
+2020-01-01 04:28:01,114 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 04:28:09,445 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 04:28:10,347 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 04:28:10,565 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 04:28:10,787 - MonkeyUser -INFO - Views Comic History
+2020-01-01 04:28:32,967 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 04:28:39,830 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 04:28:41,095 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 04:28:41,334 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 04:28:42,036 - MonkeyUser -INFO - Views Comic History
+2020-01-01 04:32:07,967 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 04:32:15,284 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 04:32:16,602 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 04:49:42,674 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 04:49:49,876 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 04:49:50,593 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 04:49:50,824 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 04:49:51,295 - MonkeyUser -INFO - Views Comic History
+2020-01-01 04:50:39,207 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 04:50:46,085 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 04:50:47,019 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 04:50:47,257 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 04:50:47,720 - MonkeyUser -INFO - Views Comic History
+2020-01-01 04:51:16,302 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 04:51:24,940 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 04:51:25,779 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 04:51:26,011 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 04:51:26,459 - MonkeyUser -INFO - Views Comic History
+2020-01-01 04:52:01,326 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 04:52:07,827 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 04:52:08,706 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 04:52:09,003 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 04:52:09,493 - MonkeyUser -INFO - Views Comic History
+2020-01-01 04:52:38,590 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 04:52:45,053 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 04:52:45,977 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 04:52:46,246 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 04:52:46,757 - MonkeyUser -INFO - Views Comic History
+2020-01-01 19:28:30,139 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 19:28:40,567 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 19:28:42,169 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 19:28:42,510 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 19:28:43,127 - MonkeyUser -INFO - Views Comic History
+2020-01-01 19:48:05,963 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 19:48:12,742 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 19:48:13,613 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-01 19:48:13,744 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-01 21:23:02,418 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 21:23:25,523 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 21:23:26,879 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 21:23:28,645 - MonkeyUser -INFO - Selecting Product A
+2020-01-01 21:27:51,678 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 21:27:59,010 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 21:27:59,797 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 21:28:01,285 - MonkeyUser -INFO - Selecting Product A
+2020-01-01 21:28:01,632 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-01 21:40:09,769 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 21:40:16,593 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 21:40:17,511 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 21:40:18,930 - MonkeyUser -INFO - Selecting Product A
+2020-01-01 21:40:19,662 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-01 21:42:39,140 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 21:42:45,926 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 21:42:46,690 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 21:42:47,946 - MonkeyUser -INFO - Selecting Product A
+2020-01-01 21:42:48,563 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-01 21:42:49,164 - MonkeyUser -INFO - Clicking on Continue Btn
+2020-01-01 21:43:58,316 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 21:44:04,261 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 21:44:05,117 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 21:44:06,435 - MonkeyUser -INFO - Selecting Product A
+2020-01-01 21:44:07,120 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-01 21:44:07,599 - MonkeyUser -INFO - Clicking on Continue Btn
+2020-01-01 21:46:55,580 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 21:47:01,988 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 21:47:02,859 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 21:47:04,231 - MonkeyUser -INFO - Selecting Product A
+2020-01-01 21:47:04,963 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-01 21:47:05,449 - MonkeyUser -INFO - Clicking on Continue Btn
+2020-01-01 21:47:06,066 - MonkeyUser -INFO - Clicking Cart ICON
+2020-01-01 21:51:42,812 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 21:51:49,246 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 21:51:50,195 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 21:51:51,683 - MonkeyUser -INFO - Selecting Product A
+2020-01-01 21:51:52,453 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-01 21:51:52,939 - MonkeyUser -INFO - Clicking on Continue Btn
+2020-01-01 21:51:53,503 - MonkeyUser -INFO - Clicking Cart ICON
+2020-01-01 21:57:09,613 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 21:57:30,133 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 21:57:31,131 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 21:57:32,435 - MonkeyUser -INFO - Selecting Product A
+2020-01-01 21:57:33,067 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-01 21:57:33,553 - MonkeyUser -INFO - Capturing on Continue Btn
+2020-01-01 21:57:34,070 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-01 21:57:34,586 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-01 21:57:35,140 - MonkeyUser -INFO - Back to Cart
+2020-01-01 22:01:49,319 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 22:01:56,112 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 22:01:56,883 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 22:01:59,539 - MonkeyUser -INFO - Selecting Product A
+2020-01-01 22:02:00,325 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-01 22:02:00,842 - MonkeyUser -INFO - Capturing on Continue Btn
+2020-01-01 22:02:01,328 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-01 22:02:01,907 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-01 22:02:02,408 - MonkeyUser -INFO - Back to Cart
+2020-01-01 22:05:12,700 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 22:05:22,008 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 22:05:23,759 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 22:05:25,178 - MonkeyUser -INFO - Selecting Product A
+2020-01-01 22:05:25,918 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-01 22:05:26,535 - MonkeyUser -INFO - Capturing on Continue Btn
+2020-01-01 22:05:27,098 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-01 22:05:27,737 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-01 22:05:28,238 - MonkeyUser -INFO - Back to Cart
+2020-01-01 22:09:17,695 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 22:09:26,153 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 22:09:27,001 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 22:09:28,312 - MonkeyUser -INFO - Selecting Product A
+2020-01-01 22:09:28,975 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-01 22:09:29,414 - MonkeyUser -INFO - Capturing on Continue Btn
+2020-01-01 22:09:30,015 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-01 22:09:30,548 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-01 22:09:31,118 - MonkeyUser -INFO - Back to Cart
+2020-01-01 22:09:31,935 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-01 22:10:30,654 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 22:10:37,175 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 22:10:38,039 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 22:10:39,395 - MonkeyUser -INFO - Selecting Product A
+2020-01-01 22:10:39,843 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-01 22:10:40,861 - MonkeyUser -INFO - Capturing on Continue Btn
+2020-01-01 22:10:41,446 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-01 22:10:41,963 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-01 22:10:42,665 - MonkeyUser -INFO - Back to Cart
+2020-01-01 22:10:43,366 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-01 22:10:44,083 - MonkeyUser -INFO - Capturing Remove Btn
+2020-01-01 22:14:21,685 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-01 22:14:28,669 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-01 22:14:29,508 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-01 22:14:30,811 - MonkeyUser -INFO - Selecting Product A
+2020-01-01 22:14:31,560 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-01 22:14:32,061 - MonkeyUser -INFO - Capturing on Continue Btn
+2020-01-01 22:14:32,600 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-01 22:14:33,101 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-01 22:14:33,803 - MonkeyUser -INFO - Back to Cart
+2020-01-01 22:14:34,489 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-01 22:14:35,137 - MonkeyUser -INFO - Capturing Remove Btn
+2020-01-01 22:14:35,592 - MonkeyUser -INFO - Capturing Continue Shopping Btn
+2020-01-02 11:17:38,958 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:18:02,354 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 11:18:03,544 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 11:18:05,046 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 11:18:05,453 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 11:21:04,436 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:22:16,885 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:22:24,770 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 11:22:26,087 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 11:22:27,690 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 11:22:29,333 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 11:22:30,175 - MonkeyUser -INFO - Selecting Continue Shoping btn
+2020-01-02 11:24:06,174 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:24:12,803 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 11:24:14,173 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 11:24:15,694 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 11:24:16,049 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 11:24:17,303 - MonkeyUser -INFO - Selecting Continue Shoping btn
+2020-01-02 11:27:11,111 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:35:43,536 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:35:51,060 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 11:35:52,132 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 11:35:53,590 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 11:35:54,809 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 11:35:55,230 - MonkeyUser -INFO - Selecting Continue Shoping btn
+2020-01-02 11:35:56,643 - MonkeyUser -INFO - Adding Product B to cart
+2020-01-02 11:35:57,448 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-02 11:35:58,525 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-02 11:35:59,243 - MonkeyUser -INFO - Back to Cart
+2020-01-02 11:36:00,201 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-02 11:36:01,049 - MonkeyUser -INFO - Capturing Remove Btn
+2020-01-02 11:37:21,851 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:37:28,935 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 11:37:29,829 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 11:37:31,058 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 11:37:31,669 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 11:37:32,264 - MonkeyUser -INFO - Selecting Continue Shoping btn
+2020-01-02 11:37:33,477 - MonkeyUser -INFO - Adding Product B to cart
+2020-01-02 11:37:33,825 - MonkeyUser -INFO - Adding product B to Cart
+2020-01-02 11:37:34,713 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-02 11:37:35,649 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-02 11:37:36,164 - MonkeyUser -INFO - Back to Cart
+2020-01-02 11:37:37,316 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-02 11:37:38,229 - MonkeyUser -INFO - Capturing Remove Btn
+2020-01-02 11:40:48,203 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:40:55,654 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 11:40:56,943 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 11:40:58,601 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 11:40:59,457 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 11:41:00,075 - MonkeyUser -INFO - Selecting Continue Shoping btn
+2020-01-02 11:41:01,190 - MonkeyUser -INFO - Adding Product B to cart
+2020-01-02 11:41:02,199 - MonkeyUser -INFO - Adding product B to Cart
+2020-01-02 11:41:02,833 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-02 11:41:03,767 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-02 11:41:04,604 - MonkeyUser -INFO - Back to Cart
+2020-01-02 11:41:05,595 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-02 11:41:06,654 - MonkeyUser -INFO - Capturing Remove Btn
+2020-01-02 11:43:01,770 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:43:09,121 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 11:43:10,191 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 11:43:11,980 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 11:43:13,241 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 11:43:14,513 - MonkeyUser -INFO - Selecting Continue Shoping btn
+2020-01-02 11:43:15,523 - MonkeyUser -INFO - Adding Product B to cart
+2020-01-02 11:43:16,065 - MonkeyUser -INFO - Adding product B to Cart
+2020-01-02 11:43:16,779 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-02 11:43:17,600 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-02 11:43:18,308 - MonkeyUser -INFO - Back to Cart
+2020-01-02 11:43:19,385 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-02 11:43:20,499 - MonkeyUser -INFO - Capturing Remove Btn
+2020-01-02 11:44:34,307 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:44:41,673 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 11:44:42,658 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 11:44:44,241 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 11:44:45,579 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 11:44:46,151 - MonkeyUser -INFO - Selecting Continue Shoping btn
+2020-01-02 11:44:47,138 - MonkeyUser -INFO - Adding Product B to cart
+2020-01-02 11:44:48,261 - MonkeyUser -INFO - Adding product B to Cart
+2020-01-02 11:44:48,841 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-02 11:44:49,518 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-02 11:44:50,077 - MonkeyUser -INFO - Back to Cart
+2020-01-02 11:44:51,711 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-02 11:44:52,753 - MonkeyUser -INFO - Capturing Remove Btn
+2020-01-02 11:46:43,481 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:46:51,010 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 11:46:52,075 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 11:46:53,370 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 11:46:54,757 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 11:46:55,636 - MonkeyUser -INFO - Selecting Continue Shoping btn
+2020-01-02 11:46:56,592 - MonkeyUser -INFO - Adding Product B to cart
+2020-01-02 11:46:57,030 - MonkeyUser -INFO - Adding product B to Cart
+2020-01-02 11:46:57,987 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-02 11:46:58,892 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-02 11:46:59,512 - MonkeyUser -INFO - Back to Cart
+2020-01-02 11:47:00,511 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-02 11:47:01,445 - MonkeyUser -INFO - Capturing Remove Btn
+2020-01-02 11:48:51,812 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:48:58,981 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 11:49:00,214 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 11:49:01,701 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 11:49:02,922 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 11:49:03,712 - MonkeyUser -INFO - Selecting Continue Shoping btn
+2020-01-02 11:49:04,857 - MonkeyUser -INFO - Adding Product B to cart
+2020-01-02 11:49:05,261 - MonkeyUser -INFO - Adding product B to Cart
+2020-01-02 11:49:05,859 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-02 11:49:06,773 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-02 11:49:07,404 - MonkeyUser -INFO - Back to Cart
+2020-01-02 11:49:08,740 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-02 11:49:09,459 - MonkeyUser -INFO - Capturing Remove Btn
+2020-01-02 11:51:34,283 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:51:41,865 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 11:51:42,921 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 11:51:44,607 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 11:51:45,633 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 11:51:46,323 - MonkeyUser -INFO - Selecting Continue Shoping btn
+2020-01-02 11:51:47,316 - MonkeyUser -INFO - Adding Product B to cart
+2020-01-02 11:51:48,292 - MonkeyUser -INFO - Adding product B to Cart
+2020-01-02 11:51:48,879 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-02 11:51:49,745 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-02 11:51:50,726 - MonkeyUser -INFO - Back to Cart
+2020-01-02 11:51:51,881 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-02 11:51:52,761 - MonkeyUser -INFO - Capturing Remove Btn
+2020-01-02 11:53:35,863 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:53:42,749 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 11:53:43,922 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 11:53:45,612 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 11:53:46,857 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 11:53:47,570 - MonkeyUser -INFO - Selecting Continue Shoping btn
+2020-01-02 11:53:49,022 - MonkeyUser -INFO - Adding Product B to cart
+2020-01-02 11:53:50,085 - MonkeyUser -INFO - Adding product B to Cart
+2020-01-02 11:53:50,673 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-02 11:53:51,350 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-02 11:53:52,030 - MonkeyUser -INFO - Back to Cart
+2020-01-02 11:53:52,863 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-02 11:53:53,542 - MonkeyUser -INFO - Capturing Remove Btn
+2020-01-02 11:54:45,477 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:54:52,731 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 11:54:53,887 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 11:54:55,506 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 11:54:56,890 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 11:54:57,394 - MonkeyUser -INFO - Selecting Continue Shoping btn
+2020-01-02 11:54:58,578 - MonkeyUser -INFO - Adding Product B to cart
+2020-01-02 11:54:59,458 - MonkeyUser -INFO - Adding product B to Cart
+2020-01-02 11:54:59,995 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-02 11:55:00,900 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-02 11:55:01,615 - MonkeyUser -INFO - Back to Cart
+2020-01-02 11:55:02,623 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-02 11:55:03,952 - MonkeyUser -INFO - Capturing Remove Btn
+2020-01-02 11:57:34,324 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 11:57:41,961 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 11:57:42,978 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 11:57:44,822 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 11:57:45,807 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 11:57:46,696 - MonkeyUser -INFO - Selecting Continue Shoping btn
+2020-01-02 11:57:47,807 - MonkeyUser -INFO - Adding Product B to cart
+2020-01-02 11:57:48,255 - MonkeyUser -INFO - Adding product B to Cart
+2020-01-02 11:57:49,141 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-02 11:57:49,743 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-02 11:57:50,462 - MonkeyUser -INFO - Back to Cart
+2020-01-02 11:57:51,695 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-02 11:57:52,652 - MonkeyUser -INFO - Capturing Remove Btn
+2020-01-02 11:57:52,671 - MonkeyUser -INFO - Test Passed!
+2020-01-02 11:57:52,673 - MonkeyUser -INFO - Successfully Checked Cart Functions
+2020-01-02 12:01:25,164 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 12:01:32,628 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 12:01:34,085 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-02 12:01:34,698 - MonkeyUser -INFO - Clicking on Latest Comics
+2020-01-02 12:01:34,717 - MonkeyUser -INFO - Test Passed!
+2020-01-02 12:01:34,718 - MonkeyUser -INFO - Successfully Opened Latest Comic
+2020-01-02 12:01:39,244 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 12:01:52,606 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 12:01:53,472 - MonkeyUser -INFO - Clicking on Random View
+2020-01-02 12:01:54,200 - MonkeyUser -INFO - Clicking on Next Tab
+2020-01-02 12:01:58,627 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 12:02:04,444 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 12:02:05,019 - MonkeyUser -INFO - Clicking on Random View
+2020-01-02 12:02:09,899 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 12:02:16,036 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 12:02:16,974 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 12:02:18,568 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 12:02:18,583 - MonkeyUser -INFO - Test Passed!
+2020-01-02 12:02:18,585 - MonkeyUser -INFO - Successfully Product Added To Cart
+2020-01-02 12:02:25,435 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 12:02:31,495 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 12:02:32,474 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 12:02:33,933 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 12:02:35,107 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 12:02:35,763 - MonkeyUser -INFO - Selecting Continue Shoping btn
+2020-01-02 12:02:37,735 - MonkeyUser -INFO - Adding Product B to cart
+2020-01-02 12:02:38,782 - MonkeyUser -INFO - Adding product B to Cart
+2020-01-02 12:02:39,379 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-02 12:02:40,048 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-02 12:02:40,925 - MonkeyUser -INFO - Back to Cart
+2020-01-02 12:02:41,871 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-02 12:02:42,683 - MonkeyUser -INFO - Capturing Remove Btn
+2020-01-02 12:02:42,686 - MonkeyUser -INFO - Test Passed!
+2020-01-02 12:02:42,687 - MonkeyUser -INFO - Successfully Checked Cart Functions
+2020-01-02 12:02:47,456 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 12:02:53,461 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 12:02:54,769 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-02 12:02:54,860 - MonkeyUser -INFO - Navigating the page by using Javascript
+2020-01-02 12:02:55,070 - MonkeyUser -INFO - Views Comic History
+2020-01-02 12:02:59,008 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 12:03:04,361 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 12:03:05,556 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-02 12:03:07,144 - MonkeyUser -INFO - December 4, 2018
+2020-01-02 12:03:07,155 - MonkeyUser -INFO - Test Passed!
+2020-01-02 12:03:07,155 - MonkeyUser -INFO - Successfully Opened Comic
+2020-01-02 12:03:07,786 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-02 12:03:10,183 - MonkeyUser -INFO - June 19, 2018
+2020-01-02 12:03:10,395 - MonkeyUser -INFO - Test Passed!
+2020-01-02 12:03:10,395 - MonkeyUser -INFO - Successfully Opened Comic
+2020-01-02 12:03:10,985 - MonkeyUser -INFO - Clicking the ComicsList link 
+2020-01-02 12:03:12,791 - MonkeyUser -INFO - June 19, 2018
+2020-01-02 12:03:12,801 - MonkeyUser -INFO - Test Passed!
+2020-01-02 12:03:12,801 - MonkeyUser -INFO - Successfully Opened Comic
+2020-01-02 12:35:35,863 - MonkeyUser -DEBUG - Debug logging has started 
+2020-01-02 12:35:58,372 - MonkeyUser -INFO - Launching MonekyUser Website
+2020-01-02 12:35:59,493 - MonkeyUser -INFO - Shop List WebPage is visible
+2020-01-02 12:36:00,991 - MonkeyUser -INFO - Selecting Product A
+2020-01-02 12:36:02,247 - MonkeyUser -INFO - Selecting Add to cart
+2020-01-02 12:36:02,959 - MonkeyUser -INFO - Selecting Continue Shoping btn
+2020-01-02 12:36:04,046 - MonkeyUser -INFO - Adding Product B to cart
+2020-01-02 12:36:04,400 - MonkeyUser -INFO - Adding product B to Cart
+2020-01-02 12:36:05,183 - MonkeyUser -INFO - Capturing Cart Icon Btn
+2020-01-02 12:36:05,917 - MonkeyUser -INFO - Capturing SignIn Icon
+2020-01-02 12:36:06,538 - MonkeyUser -INFO - Back to Cart
+2020-01-02 12:36:07,442 - MonkeyUser -INFO - Capturing Update Btn
+2020-01-02 12:36:08,252 - MonkeyUser -INFO - Capturing Remove Btn
